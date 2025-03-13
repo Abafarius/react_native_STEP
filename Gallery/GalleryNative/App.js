@@ -133,7 +133,7 @@ const styles = StyleSheet.create({
     paddingBottom: 16,
   },
   title: {
-    fontSize: 32,
+    fontSize: 65,
     fontWeight: "400",
     letterSpacing: 1,
     color: "#345270",
@@ -217,7 +217,7 @@ const styles = StyleSheet.create({
     borderTopColor: "rgba(200, 215, 235, 0.3)",
   },
   imageName: {
-    fontSize: 15,
+    fontSize: 24,
     color: "#345270",
     fontWeight: "500",
     letterSpacing: 0.2,
